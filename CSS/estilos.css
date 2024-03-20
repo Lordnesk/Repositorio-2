@@ -1,0 +1,29 @@
+.titulo{
+    color: aquamarine;
+    background-color: darkcyan;
+    text-align: center;
+
+}
+
+.marco{
+    width: 100%;
+    height: 200px;
+    border: 1px solid darkcyan;
+}
+
+.boton{
+    background-color: bisque;
+    border: 2px solid mediumblue;
+    text-decoration: none; 
+    display: inline-block;
+    padding: 10px;
+}
+
+.boton:hover{
+    background-color: mediumblue;
+    color: bisque;
+}
+
+.centrar{
+    text-align: center;
+}
